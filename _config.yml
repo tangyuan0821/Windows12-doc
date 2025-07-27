@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://tangyuan0821.github.io/windows12-doc/
 
 aux_links:
-  Windows12 Docs Github : https://github.com/tangyuan0821/windows12-doc
+  Windows12 Docs on Github : https://github.com/tangyuan0821/windows12-doc
 
 plugins:
   - jekyll-default-layout
