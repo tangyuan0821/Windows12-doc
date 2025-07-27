@@ -1,8 +1,8 @@
 ---
 layout: default
 nav_order: 1
-has_children: true
-permalink: /zh-tw/
+parent: 繁體中文
+permalink: /zh-tw/contributing/
 ---
 
 # 貢獻指南
