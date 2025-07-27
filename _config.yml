@@ -1,4 +1,4 @@
-title: Windows 12gh_edit_repository: https://github.com/tangyuan0821/windows12-doc # the github URL for your repoDocumentation
+title: Windows 12 Documentation
 description: Windows12 Docs
 theme: just-the-docs
 
@@ -15,7 +15,7 @@ plugins:
 # Edit this page on GitHub
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: 於 GitHub 編輯此頁
-gh_edit_repository: https://github.com/tangyuan0821/windows12-doc/ # the github URL for your repo
+gh_edit_repository: https://github.com/tangyuan0821/windows12-doc # the github URL for your repo
 gh_edit_branch: main # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: edit # "tree" or "edit" if you want the user to jump into the editor immediately

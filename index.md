@@ -12,9 +12,9 @@ Bienvenue dans le centre de documentation de Windows 12 Web Edition.
 
 
 
- - [繁體中文](/docs/zh-tw/index.md)
- - [English](/docs/e-us/index.md)
- - [Français](/docs/fr-fr/index.md)
+ - [繁體中文](/zh-tw/)
+ - [English](/en-us/)
+ - [Français](/fr-fr/)
 
  # Author Note
  This website serves as the documentation center for the web version of Windows 12, aiming to help people with different language backgrounds access the README file of the Windows 12 web version more conveniently. The website is maintained by [tangyuan0821](https://github.com/tangyuan0821) and built based on the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme.  
