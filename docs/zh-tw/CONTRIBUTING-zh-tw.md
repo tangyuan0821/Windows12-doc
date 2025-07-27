@@ -1,3 +1,10 @@
+---
+layout: default
+nav_order: 1
+has_children: true
+permalink: /zh-tw/
+---
+
 # 貢獻指南
 
 感謝所有為本項目做出貢獻的開發者和大家的支持！
