@@ -1,9 +1,9 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 1
 has_children: true
 permalink: /fr-fr/
 ---
 
-# Documentation Windows 12 Version Web
+# Français
 
