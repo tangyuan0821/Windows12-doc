@@ -4,6 +4,11 @@ theme: just-the-docs
 
 url: https://tangyuan0821.github.io/windows12-doc/
 
+# 侧边栏配置
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
 aux_links:
   Windows12 Docs on Github : https://github.com/tangyuan0821/windows12-doc
 

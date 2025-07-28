@@ -1,13 +1,11 @@
 ---
+title: 貢獻指南
 layout: default
 parent: 繁體中文
 nav_order: 2
 lang: zh-tw
 permalink: /zh-tw/contributing-zh-tw
 ---
-title: 貢獻指南
-parent: 繁體中文
-nav_order: 1
 - TOC
 {:toc}
 </details>
