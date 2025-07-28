@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: 繁體中文
-nav_order: 1
+nav_order: 2
 lang: zh-tw
 permalink: /zh-tw/ai
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Français
-nav_order: 3
+nav_order: 4
 lang: fr-fr
 permalink: /fr-fr/Promo_Notice
 ---
