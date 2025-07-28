@@ -1,7 +1,8 @@
 ---
+title: 宣傳片公告
 layout: default
 parent: 繁體中文
-nav_order: 2
+nav_order: 3
 lang: zh-tw
 permalink: /zh-tw/Promo_Notice-zh-tw
 ---

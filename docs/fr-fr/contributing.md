@@ -1,7 +1,8 @@
 ---
+title: Guide de Contribution
 layout: default
 parent: Français
-nav_order: 4
+nav_order: 1
 lang: fr-fr
 permalink: /fr-fr/contributing
 ---

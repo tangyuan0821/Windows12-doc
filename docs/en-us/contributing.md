@@ -1,4 +1,5 @@
 ---
+title: Contributing Guide
 layout: default
 parent: English
 nav_order: 3

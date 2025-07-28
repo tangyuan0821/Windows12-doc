@@ -1,7 +1,8 @@
 ---
+title: Annonce de Vidéo Promotionnelle
 layout: default
 parent: Français
-nav_order: 4
+nav_order: 3
 lang: fr-fr
 permalink: /fr-fr/Promo_Notice
 ---

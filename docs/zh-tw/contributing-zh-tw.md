@@ -2,7 +2,7 @@
 title: 貢獻指南
 layout: default
 parent: 繁體中文
-nav_order: 2
+nav_order: 1
 lang: zh-tw
 permalink: /zh-tw/contributing-zh-tw
 ---

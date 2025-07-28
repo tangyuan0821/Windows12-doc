@@ -1,7 +1,8 @@
 ---
+title: Introduction du Backend AI Copilot
 layout: default
 parent: Français
-nav_order: 4
+nav_order: 2
 lang: fr-fr
 permalink: /fr-fr/ai
 ---
