@@ -2,7 +2,7 @@
 layout: default
 nav_order: 3
 lang: fr-fr
-permalink: /fr-fr/Promo_Notice/
+permalink: /fr-fr/Promo_Notice
 ---
 # Annonce de Vidéo Promotionnelle
 

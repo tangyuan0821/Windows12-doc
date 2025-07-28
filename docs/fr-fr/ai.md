@@ -2,7 +2,7 @@
 layout: default
 nav_order: 4
 lang: fr-fr
-permalink: /fr-fr/ai/
+permalink: /fr-fr/ai
 ---
 
 Cette IA et cette documentation proviennent de github@NB-Group

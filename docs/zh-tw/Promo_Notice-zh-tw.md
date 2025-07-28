@@ -2,7 +2,7 @@
 layout: default
 nav_order: 3
 lang: zh-tw
-permalink: /zh-tw/Promo_Notice-zh-tw/
+permalink: /zh-tw/Promo_Notice-zh-tw
 ---
 # 宣傳片公告
 

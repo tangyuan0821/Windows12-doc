@@ -1,4 +1,11 @@
 本 AI 及文件來自 github@NB-Group
+---
+layout: default
+nav_order: 4
+lang: zh-tw
+permalink: /zh-tw/ai.md
+---
+
 # AI Copilot 後端介紹
 ## 介紹
 AI Copilot 是一款基於 AI 的文本生成工具，採用 LLAMA 模型，能夠自動生成文字內容。

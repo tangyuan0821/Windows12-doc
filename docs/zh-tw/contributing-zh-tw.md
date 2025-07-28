@@ -2,7 +2,7 @@
 layout: default
 nav_order: 1
 lang: zh-tw
-permalink: /zh-tw/contributing-zh-tw/
+permalink: /zh-tw/contributing-zh-tw
 ---
 
 # 貢獻指南

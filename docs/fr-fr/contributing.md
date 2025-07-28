@@ -2,7 +2,7 @@
 layout: default
 nav_order: 1
 lang: fr-fr
-permalink: /fr-fr/contributing/
+permalink: /fr-fr/contributing
 ---
 
 # Guide de Contribution

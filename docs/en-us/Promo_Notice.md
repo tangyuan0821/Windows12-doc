@@ -2,7 +2,7 @@
 layout: default
 nav_order: 3
 lang: en-us
-permalink: /e-us/Promo_Notice/
+permalink: /en-us/Promo_Notice
 ---
 # Promotional Video Announcement
 

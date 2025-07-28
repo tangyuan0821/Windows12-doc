@@ -1,6 +1,7 @@
 ---
 title: 序言
 layout: home
+permalink: /
 ---
 歡迎來到Windows12 網頁版的文檔中心。
 
@@ -12,9 +13,9 @@ Bienvenue dans le centre de documentation de Windows 12 Web Edition.
 
 
 
- - [繁體中文](/docs/zh-tw/index)
- - [English](/docs/en-us/index)
- - [Français](/docs/fr-fr/index)
+ - [繁體中文](/zh-tw/index)
+ - [English](/en-us/index)
+ - [Français](/fr-fr/index)
 
  # Author Note
  This website serves as the documentation center for the web version of Windows 12, aiming to help people with different language backgrounds access the README file of the Windows 12 web version more conveniently. The website is maintained by [tangyuan0821](https://github.com/tangyuan0821) and built based on the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme.  
