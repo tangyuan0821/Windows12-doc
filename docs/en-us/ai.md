@@ -1,10 +1,20 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 1
 lang: en-us
 permalink: /en-us/ai
 ---
 
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 This AI and documentation are from github@NB-Group
 # AI Copilot Backend Introduction
 ## Introduction

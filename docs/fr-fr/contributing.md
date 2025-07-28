@@ -1,10 +1,20 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 2
 lang: fr-fr
 permalink: /fr-fr/contributing
 ---
 
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 # Guide de Contribution
 
 Merci à tous les développeurs qui ont contribué à ce projet et à tous pour votre soutien !

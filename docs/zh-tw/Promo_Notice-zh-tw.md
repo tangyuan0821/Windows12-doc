@@ -4,6 +4,17 @@ nav_order: 3
 lang: zh-tw
 permalink: /zh-tw/Promo_Notice-zh-tw
 ---
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 # 宣傳片公告
 
 ## 要求簡述

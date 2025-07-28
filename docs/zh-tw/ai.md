@@ -1,10 +1,21 @@
-本 AI 及文件來自 github@NB-Group
 ---
 layout: default
-nav_order: 4
+nav_order: 1
 lang: zh-tw
 permalink: /zh-tw/ai.md
 ---
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
+> 本 AI 及文件來自 github@NB-Group
 
 # AI Copilot 後端介紹
 ## 介紹

@@ -1,10 +1,20 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 2
 lang: zh-tw
 permalink: /zh-tw/contributing-zh-tw
 ---
 
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 # 貢獻指南
 
 感謝所有為本項目做出貢獻的開發者和大家的支持！

@@ -4,6 +4,17 @@ nav_order: 3
 lang: en-us
 permalink: /en-us/Promo_Notice
 ---
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 # Promotional Video Announcement
 
 ## Brief Requirements
