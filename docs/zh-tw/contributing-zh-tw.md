@@ -5,12 +5,9 @@ nav_order: 2
 lang: zh-tw
 permalink: /zh-tw/contributing-zh-tw
 ---
-
-<details close markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
+title: 貢獻指南
+parent: 繁體中文
+nav_order: 1
 - TOC
 {:toc}
 </details>

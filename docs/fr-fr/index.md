@@ -1,9 +1,8 @@
 ---
-layout: default
-nav_order: 4
+title: Français
+nav_order: 3
 has_children: true
-permalink: /fr-fr
+permalink: /fr-fr/
 ---
-
 # Français
 

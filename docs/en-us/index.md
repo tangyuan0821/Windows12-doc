@@ -1,8 +1,9 @@
 ---
-layout: default
-nav_order: 4
+title: English
+nav_order: 2
 has_children: true
-permalink: /en-us
+permalink: /en-us/
+
 ---
 
 # English

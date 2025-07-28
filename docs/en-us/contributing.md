@@ -2,7 +2,6 @@
 layout: default
 parent: English
 nav_order: 2
-lang: en-us
 permalink: /en-us/contributing
 ---
 
