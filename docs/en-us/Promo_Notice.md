@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: English
 nav_order: 3
 lang: en-us
 permalink: /en-us/Promo_Notice

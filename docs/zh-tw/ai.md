@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: 繁體中文
 nav_order: 1
 lang: zh-tw
 permalink: /zh-tw/ai.md

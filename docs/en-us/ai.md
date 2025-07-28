@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: English
 nav_order: 1
 lang: en-us
 permalink: /en-us/ai

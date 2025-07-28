@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Français
 nav_order: 2
 lang: fr-fr
 permalink: /fr-fr/contributing
