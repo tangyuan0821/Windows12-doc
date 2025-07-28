@@ -1,0 +1,14 @@
+.main-content{
+  ol {
+    > li {
+      ol {
+        li {
+          &::before {
+            content: counter(sub-counter);
+            counter-increment: sub-counter;
+          }
+        }
+      }
+    }
+  }
+}
