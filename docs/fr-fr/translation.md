@@ -1,5 +1,5 @@
 ---
-title: Annonce de Vidéo Promotionnelle
+title: Guide de traduction
 layout: default
 parent: Français
 nav_order: 4

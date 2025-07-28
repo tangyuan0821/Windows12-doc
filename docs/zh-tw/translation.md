@@ -1,5 +1,5 @@
 ---
-title: 宣傳片公告
+title: 翻譯指南
 layout: default
 parent: 繁體中文
 nav_order: 4

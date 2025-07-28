@@ -1,5 +1,5 @@
 ---
-title: Promotional Video Announcement
+title: Translation Guide
 layout: default
 parent: English
 nav_order: 4
